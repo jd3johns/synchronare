@@ -1,0 +1,18 @@
+tabstave notation=true tablature=false
+  clef=percussion
+  time=4/4
+
+  notes :32 C-C-C-C/5 :8 C/5 $.a>/top.$
+  notes :32 C-C-C-C/5 :8 C/5 $.a>/top.$
+  notes :32 C-C-C-C/5 :8 C/5 $.a>/top.$
+  notes :32 C-C-C-C/5 :8 C/5 $.a>/top.$
+  notes =|=
+
+  text ++,.11,.font=times-11-
+  text :32,R,R,L,L,:8,R
+  text :32,L,L,R,R,:8,L
+  text :32,R,R,L,L,:8,R
+  text :32,L,L,R,R,:8,L
+
+options space=40
+

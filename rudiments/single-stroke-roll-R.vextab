@@ -1,0 +1,12 @@
+tabstave notation=true tablature=false
+  clef=percussion
+  time=4/4
+
+  notes :32
+  notes C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C/5 =|=
+
+  text ++,.11,.font=times-11-,:32
+  text R,L,R,L,R,L,R,L,R,L,R,L,R,L,R,L
+
+options space=40
+
